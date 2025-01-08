@@ -1,4 +1,4 @@
-package com.github.sammontakoja.intellijkrokiplugin.listeners
+package sammontakoja.intellijkrokiplugin.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

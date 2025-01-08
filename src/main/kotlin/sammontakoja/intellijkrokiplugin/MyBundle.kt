@@ -1,4 +1,4 @@
-package com.github.sammontakoja.intellijkrokiplugin
+package sammontakoja.intellijkrokiplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
